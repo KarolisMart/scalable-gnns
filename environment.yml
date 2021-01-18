@@ -1,0 +1,17 @@
+name: scalable-graph-networks
+
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pip
+  - matplotlib
+  - numpy=1.19
+  - scipy
+  - jupyter
+  - pytorch=1.5
+  - torchvision=0.6
+  - cudatoolkit=10.1
+  - tensorboard
+  - pyyaml
