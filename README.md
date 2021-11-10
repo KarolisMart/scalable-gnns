@@ -23,11 +23,14 @@ The project is structured as follows:
 
 Please cite our paper if you use this code or our method in your work:
 ```
-@article{martinkus2020scalable,
+@InProceedings{martinkus2021scalable,
   title={Scalable Graph Networks for Particle Simulations},
   author={Martinkus, Karolis and Lucchi, Aurelien and Perraudin, Nathana{\"e}l},
-  journal={arXiv preprint arXiv:2010.06948},
-  year={2020}
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={35},
+  number={10},
+  pages={8912--8920},
+  year={2021}}
 }
 ```
 
